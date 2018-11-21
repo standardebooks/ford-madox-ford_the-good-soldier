@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/ford-madox-ford/the-good-soldier</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2018-11-21T22:18:07Z</dc:date>
+		<meta property="dcterms:modified">2018-11-21T22:18:07Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -50,17 +50,16 @@
 		<dc:description id="description">The friendship between two well-heeled couples is a veneer over darker truths.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;At the height of &lt;i xml:lang="fr"&gt;belle époque&lt;/i&gt; Europe, an American couple⁠—the narrator John Dowell and his wife Florence⁠–⁠and a British couple⁠–⁠Leonora and the titular “good soldier” Edward Ashburnham⁠—meet and become firm friends. Travelling and socialising together it’s a full nine years before the cracks start to show, but when they do the whole edifice starts tumbling to reveal the secrecy and lies concealed within.&lt;/p&gt;
+			&lt;p&gt;At the height of &lt;i xml:lang="fr"&gt;belle époque&lt;/i&gt; Europe, an American couple⁠—the narrator John Dowell and his wife Florence⁠–⁠and a British couple⁠–⁠Leonora and the titular “good soldier” Edward Ashburnham⁠—meet and become firm friends. Travelling and socialising together, it’s a full nine years before the cracks start to show, but when they do the whole edifice starts tumbling to reveal the secrecy and lies concealed within.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Good Soldier&lt;/i&gt; is a classic example of the unreliable narrator genre. With a charitable view, everything John Dowell retells is plausible, but it doesn’t take much critical thinking to reframe the story’s events as something entirely more sinister.&lt;/p&gt;
-			&lt;p&gt;The novel is now frequently ranked by critics as one of the great pieces of twentieth-century literature. Ford Madox Ford, already published many times over by this novel’s release along with collaborations with both Joseph Conrad and Ernest Hemingway, went on to create and edit the influential literature journals &lt;i&gt;The English Review&lt;/i&gt; and &lt;i&gt;The Transatlantic Review&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;The novel is now frequently ranked by critics as one of the great pieces of twentieth-century literature. Ford Madox Ford, already published many times over by this novel’s release, and along with collaborations with both Joseph Conrad and Ernest Hemingway, went on to create and edit the influential literature journals &lt;i&gt;The English Review&lt;/i&gt; and &lt;i&gt;The Transatlantic Review&lt;/i&gt;.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2775</dc:source>
 		<dc:source>https://books.google.com/books?id=-KtaAAAAMAAJ</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">76593</meta>
+		<meta property="se:reading-ease.flesch">69.82</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Good_Soldier</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ford-madox-ford_the-good-soldier</meta>
 		<dc:creator id="author">Ford Madox Ford</dc:creator>
@@ -88,6 +87,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
