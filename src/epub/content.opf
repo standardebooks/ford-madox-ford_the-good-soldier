@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Good Soldier</dc:title>
 		<meta property="file-as" refines="#title">Good Soldier, The</meta>
 		<dc:subject id="subject-1">Adultery -- Fiction</dc:subject>
@@ -37,23 +37,29 @@
 		<dc:subject id="subject-6">Married people -- Fiction</dc:subject>
 		<dc:subject id="subject-7">Middle class -- Fiction</dc:subject>
 		<dc:subject id="subject-8">Hessen (Hesse, Germany : Province) -- Fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/2775</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/2775</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/2775</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/2775</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/2775</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/2775</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/2775</meta>
-		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/2775</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2007100578</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">Unknown</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2007101977</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">sh86004353</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008103509</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2008107177</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">sh2008107441</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The friendship between two well-heeled couples is a veneer over darker truths.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;At the height of &lt;i xml:lang="fr"&gt;belle époque&lt;/i&gt; Europe, an American couple⁠—the narrator John Dowell and his wife Florence⁠–⁠and a British couple⁠–⁠Leonora and the titular “good soldier” Edward Ashburnham⁠—meet and become firm friends. Travelling and socialising together, it’s a full nine years before the cracks start to show, but when they do the whole edifice starts tumbling to reveal the secrecy and lies concealed within.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;The Good Soldier&lt;/i&gt; is a classic example of the unreliable narrator genre. With a charitable view, everything John Dowell retells is plausible, but it doesn’t take much critical thinking to reframe the story’s events as something entirely more sinister.&lt;/p&gt;
 			&lt;p&gt;The novel is now frequently ranked by critics as one of the great pieces of twentieth-century literature. Ford Madox Ford, already published many times over by this novel’s release, and along with collaborations with both Joseph Conrad and Ernest Hemingway, went on to create and edit the influential literature journals &lt;i&gt;The English Review&lt;/i&gt; and &lt;i&gt;The Transatlantic Review&lt;/i&gt;.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2775</dc:source>
 		<dc:source>https://books.google.com/books?id=-KtaAAAAMAAJ</dc:source>
