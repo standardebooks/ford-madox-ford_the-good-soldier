@@ -63,8 +63,8 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2775</dc:source>
 		<dc:source>https://books.google.com/books?id=-KtaAAAAMAAJ</dc:source>
-		<meta property="se:word-count">76593</meta>
-		<meta property="se:reading-ease.flesch">69.82</meta>
+		<meta property="se:word-count">76592</meta>
+		<meta property="se:reading-ease.flesch">69.72</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Good_Soldier</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/ford-madox-ford_the-good-soldier</meta>
 		<dc:creator id="author">Ford Madox Ford</dc:creator>
